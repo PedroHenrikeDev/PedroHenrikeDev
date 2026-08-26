@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Pedro Mendes 👋
 
 <!--
 **PedroHenrikeDev/PedroHenrikeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
